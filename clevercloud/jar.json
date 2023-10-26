@@ -1,5 +1,5 @@
 {
   "deploy": {
-    "jarName": "minecraft/server.jar"
+    "jarName": "server.jar"
   }
 }
